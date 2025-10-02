@@ -77,22 +77,7 @@ python pricing.py ^
 
 **Outputs:** CSVs & charts under `./pricing_out`.
 
-## Push to GitHub (Windows/PowerShell)
 
-1) Initialize and commit:
-```powershell
-git init
-git add .
-git commit -m "Initial commit: SABR + t-Copula pricing toolkit"
-```
-
-2) Link and push via HTTPS (recommended initially):
-```powershell
-git remote add origin https://github.com/<your-username>/sabr-copula-pricing.git
-git branch -M main
-git push -u origin main
-```
-Use a Personal Access Token (classic, scope: `repo`) as the password when prompted.
 
 ---
 
