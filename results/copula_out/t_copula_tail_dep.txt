@@ -1,0 +1,3 @@
+510500-000852: rho=0.960, nu=3.87,  lambda_U=lambda_L≈0.7670
+510500-000300: rho=0.871, nu=3.87,  lambda_U=lambda_L≈0.5879
+000852-000300: rho=0.790, nu=3.87,  lambda_U=lambda_L≈0.4849
